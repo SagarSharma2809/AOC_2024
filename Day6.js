@@ -279,4 +279,22 @@ function time() {
   });
 }
 
-time();
+//part:2
+
+//if overlapping is '^' and we are going '<' this way, put obstacle next position of overlapping
+
+//if overlapping is '<' and we are going 'v" way, put obstacle next position of overlapping
+
+//if overlapping is 'v' and we are going '>' way, put obstacle...
+
+
+
+//if overlapping '^' is the same column and we are going '<' this way, put obstacle...
+
+//if overlapping '<' is the same row and we are going 'v' this way, put obstacle...
+
+//.
+//.
+//.
+
+//similar in all cases
