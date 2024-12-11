@@ -5,7 +5,7 @@
 
 # Steps to run 
 
-1. Go into your terminal and cloned folder/directory
+1. Go into your terminal and inside cloned folder/directory
    ```
    cd <your_directory_name>
    ```
