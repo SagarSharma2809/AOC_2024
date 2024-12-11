@@ -1,6 +1,7 @@
 # AOC_2024
 !Optimized solutions of Advent Of Code Challenge 2024 using JavaScript. 
 
+![image](https://github.com/user-attachments/assets/3be53c9b-75ea-4a87-a091-94f92d361d87)
 
 # Steps to run 
 
